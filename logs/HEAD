@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 8b0409d37fdeeeaa9ab953775dc6c7c902740bf8 wangHao <smile78484@aliyun.com> 1488764143 +0800	clone: from https://github.com/BrandWang/demo.git
+8b0409d37fdeeeaa9ab953775dc6c7c902740bf8 f4e274b1f345e6e51c4b4245e0f6142a371501be wangHao <smile78484@aliyun.com> 1488776526 +0800	commit: spring booot druid
+f4e274b1f345e6e51c4b4245e0f6142a371501be f63ba69c077dadfdffefe02ed6fa3e3b821ef3b1 wangHao <smile78484@aliyun.com> 1488778982 +0800	commit: delete svn
+f63ba69c077dadfdffefe02ed6fa3e3b821ef3b1 c5bab04195a97e4ce333ad6499e9935853b7c39a wangHao <smile78484@aliyun.com> 1488862200 +0800	commit: spring boot admin
+c5bab04195a97e4ce333ad6499e9935853b7c39a 0b2e4c19311ebd6c09bf02f2c16c412512355398 wangHao <smile78484@aliyun.com> 1489476740 +0800	commit: # WARNING: head commit changed in the meantime
+0b2e4c19311ebd6c09bf02f2c16c412512355398 38261943aff5e02d7011ad09fd756fc7a3ded8cd wangHao <smile78484@aliyun.com> 1489476910 +0800	commit: spring cloud  zipkin
+38261943aff5e02d7011ad09fd756fc7a3ded8cd 55a242fb933c38e535472a63ad9f83fb3434a4d4 wangHao <smile78484@aliyun.com> 1489476984 +0800	commit: zuul
+55a242fb933c38e535472a63ad9f83fb3434a4d4 c347f75b5ecd2c19eea67602c67a1ec3335491c4 wangHao <smile78484@aliyun.com> 1489477039 +0800	commit: turbine
+c347f75b5ecd2c19eea67602c67a1ec3335491c4 fbd48ceb9d0c6571d62ca0d94543b2c36e7c838d wangHao <smile78484@aliyun.com> 1489627801 +0800	commit: - target/class
+fbd48ceb9d0c6571d62ca0d94543b2c36e7c838d 74466abc7c8e9dd92bfc0d7077178c03fa8d96cd wangHao <smile78484@aliyun.com> 1489654168 +0800	commit: ---
+74466abc7c8e9dd92bfc0d7077178c03fa8d96cd 0232f85a88d6298a611501b4669689b88acc3ab6 wangHao <smile78484@aliyun.com> 1490680910 +0800	commit: commit
+0232f85a88d6298a611501b4669689b88acc3ab6 d76927e7daf15a0e81f3a228a9bd29767da3b6fc wangHao <smile78484@aliyun.com> 1490681001 +0800	commit: delete svn
+d76927e7daf15a0e81f3a228a9bd29767da3b6fc 869277090b0fc347fbf581592a8473b6c9318190 wangHao <smile78484@aliyun.com> 1490690470 +0800	commit: create spring cloud demo
