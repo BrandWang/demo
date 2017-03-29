@@ -11,3 +11,18 @@
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
+[gitflow "prefix"]
+	feature = feature/
+	release = release/
+	hotfix = hotfix/
+	versiontag = 
+[gitflow "branch"]
+	develop = develop
+	master = master
+[branch "develop"]
+	remote = spring-cloud-demo
+	merge = refs/heads/develop
+	rebase = false
+[remote "spring-cloud-demo"]
+	url = https://github.com/BrandWang/spring-cloud-config.git
+	fetch = +refs/heads/*:refs/remotes/spring-cloud-demo/*
